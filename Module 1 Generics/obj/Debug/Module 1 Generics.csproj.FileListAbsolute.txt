@@ -1,0 +1,7 @@
+C:\Users\63920\source\repos\Module 1 Generics\Module 1 Generics\bin\Debug\Module 1 Generics.exe.config
+C:\Users\63920\source\repos\Module 1 Generics\Module 1 Generics\bin\Debug\Module 1 Generics.exe
+C:\Users\63920\source\repos\Module 1 Generics\Module 1 Generics\bin\Debug\Module 1 Generics.pdb
+C:\Users\63920\source\repos\Module 1 Generics\Module 1 Generics\obj\Debug\Module 1 Generics.csproj.AssemblyReference.cache
+C:\Users\63920\source\repos\Module 1 Generics\Module 1 Generics\obj\Debug\Module 1 Generics.csproj.CoreCompileInputs.cache
+C:\Users\63920\source\repos\Module 1 Generics\Module 1 Generics\obj\Debug\Module 1 Generics.exe
+C:\Users\63920\source\repos\Module 1 Generics\Module 1 Generics\obj\Debug\Module 1 Generics.pdb
